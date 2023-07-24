@@ -1,7 +1,7 @@
 ﻿## This readme file describes the courses tha we have studied.
 
 # 1-PEP8
-PEP8 is a style guide for Python code. It defines a set of rules for how Python code should be formatted.\n
+PEP8 is a style guide for Python code. It defines a set of rules for how Python code should be formatted. \n
 PEP8 is a widely accepted standard, and it is important to follow it if you want your Python code to be readable and maintainable.
 
 # 2-Poetry
